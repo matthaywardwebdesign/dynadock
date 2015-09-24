@@ -1,0 +1,17 @@
+{
+    "name": "dynadock",
+    "version": "0.0.2",
+    "description": "A tool for building Dockerfiles dynamically",
+    "main": "app.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Matt Hayward",
+    "license": "MIT",
+    "dependencies": {
+        "colors": "^1.1.0"
+    },
+    "bin": {
+        "dynadock": "dynadock.js"
+    }
+}
